@@ -1,0 +1,94 @@
+body {
+	margin:0;
+	position:relative;
+	height: 100vh;
+	width: 100%;
+}
+.button{
+	padding: 20px;
+	color: lightpink; 
+	background: linear-gradient(to top, #ff3300, #ffcc00);
+	border-radius:8px;
+	position: absolute;
+	top: 63px;
+	left: 31%;
+
+	}
+header{
+	height: 60px;
+	width: 100%;
+	background: linear-gradient(to right, #ff3300, #ffcc00);
+	display:flex;
+	justify-content: space-between;
+	margin: 0;
+	align-items:center;
+
+}
+ul{
+	list-style-type:none;
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+
+}
+li{
+	margin-right: 30px;
+
+}
+div{
+	display: flex;
+}
+a {
+	text-decoration:none;
+	color: black;
+	font-size: 20px;
+}
+.header-button{
+	border-radius:8px;
+	color: lightpink;
+	padding: 10px;
+	border: 1px solid grey;
+}
+
+p {
+	color: white;
+	font-size: 27px;
+	padding-top: 8px;
+
+}
+.button2{
+	padding: 20px;
+	color: lightpink; 
+	background: linear-gradient(to top, #ff3300, #ffcc00);
+	border-radius:8px;
+	position: absolute;
+	top: 137px;
+	left: 31%;
+}
+.button3 {
+	padding: 20px;
+	color: lightpink; 
+	background: linear-gradient(to top, #ff3300, #ffcc00);
+	border-radius:8px;
+	position: absolute;
+	top: 210px;
+	left: 31%;
+}
+.button4 {
+	padding: 20px;
+	color: lightpink; 
+	background: linear-gradient(to top, #ff3300, #ffcc00);
+	border-radius:8px;
+	position: absolute;
+	top: 285px;
+	left: 31%;
+}
+.button5 {
+	padding: 20px;
+	color: lightpink; 
+	background: linear-gradient(to top, #ff3300, #ffcc00);
+	border-radius:8px;
+	position: absolute;
+	top: 360px;
+	left: 31%;
+}
